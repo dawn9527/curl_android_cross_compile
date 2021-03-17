@@ -1,0 +1,1 @@
+# curl_android_cross_compile
